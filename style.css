@@ -1589,3 +1589,13 @@ only screen and (                min-resolution: 2dppx){
 		background-size: 10px 24px;
 	}
 }
+
+.bg-light h4 {
+    font-size: 1.857em;
+}
+.bg-light p {
+    font-size: 1.285em;
+}
+.fit-vids-style{
+    display: none;
+}

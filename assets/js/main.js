@@ -950,3 +950,95 @@
     wprtTheme.init();
 
 })(jQuery);
+
+
+$(".gate").on({
+    mouseover:function(){
+        $(this).find("img:nth-child(1)").stop().animate({opacity:0},600);
+        $(this).find("img:nth-child(2)").stop().animate({opacity:1},600);
+    }, mouseout:function(){
+        $(this).find("img:nth-child(1)").stop().animate({opacity:1},600);
+        $(this).find("img:nth-child(2)").stop().animate({opacity:0},600);
+    } 
+});
+$(".stairs").on({
+    mouseover:function(){
+        $(this).find("img:nth-child(1)").stop().animate({opacity:0},600);
+        $(this).find("img:nth-child(2)").stop().animate({opacity:1},600);
+    }, mouseout:function(){
+        $(this).find("img:nth-child(1)").stop().animate({opacity:1},600);
+        $(this).find("img:nth-child(2)").stop().animate({opacity:0},600);
+    } 
+});
+$(".handrails").on({
+    mouseover:function(){
+        $(this).find("img:nth-child(1)").stop().animate({opacity:0},600);
+        $(this).find("img:nth-child(2)").stop().animate({opacity:1},600);
+    }, mouseout:function(){
+        $(this).find("img:nth-child(1)").stop().animate({opacity:1},600);
+        $(this).find("img:nth-child(2)").stop().animate({opacity:0},600);
+    } 
+});
+$(".glass").on({
+    mouseover:function(){
+        $(this).find("img:nth-child(1)").stop().animate({opacity:0},600);
+        $(this).find("img:nth-child(2)").stop().animate({opacity:1},600);
+    }, mouseout:function(){
+        $(this).find("img:nth-child(1)").stop().animate({opacity:1},600);
+        $(this).find("img:nth-child(2)").stop().animate({opacity:0},600);
+    } 
+});
+$(".cladding").on({
+    mouseover:function(){
+        $(this).find("img:nth-child(1)").stop().animate({opacity:0},600);
+        $(this).find("img:nth-child(2)").stop().animate({opacity:1},600);
+    }, mouseout:function(){
+        $(this).find("img:nth-child(1)").stop().animate({opacity:1},600);
+        $(this).find("img:nth-child(2)").stop().animate({opacity:0},600);
+    } 
+});
+$(".laser").on({
+    mouseover:function(){
+        $(this).find("img:nth-child(1)").stop().animate({opacity:0},600);
+        $(this).find("img:nth-child(2)").stop().animate({opacity:1},600);
+    }, mouseout:function(){
+        $(this).find("img:nth-child(1)").stop().animate({opacity:1},600);
+        $(this).find("img:nth-child(2)").stop().animate({opacity:0},600);
+    } 
+});
+$(".printing").on({
+    mouseover:function(){
+        $(this).find("img:nth-child(1)").stop().animate({opacity:0},600);
+        $(this).find("img:nth-child(2)").stop().animate({opacity:1},600);
+    }, mouseout:function(){
+        $(this).find("img:nth-child(1)").stop().animate({opacity:1},600);
+        $(this).find("img:nth-child(2)").stop().animate({opacity:0},600);
+    } 
+});
+$(".steel").on({
+    mouseover:function(){
+        $(this).find("img:nth-child(1)").stop().animate({opacity:0},600);
+        $(this).find("img:nth-child(2)").stop().animate({opacity:1},600);
+    }, mouseout:function(){
+        $(this).find("img:nth-child(1)").stop().animate({opacity:1},600);
+        $(this).find("img:nth-child(2)").stop().animate({opacity:0},600);
+    } 
+});
+$(".pergola").on({
+    mouseover:function(){
+        $(this).find("img:nth-child(1)").stop().animate({opacity:0},600);
+        $(this).find("img:nth-child(2)").stop().animate({opacity:1},600);
+    }, mouseout:function(){
+        $(this).find("img:nth-child(1)").stop().animate({opacity:1},600);
+        $(this).find("img:nth-child(2)").stop().animate({opacity:0},600);
+    } 
+});
+$(".doors").on({
+    mouseover:function(){
+        $(this).find("img:nth-child(1)").stop().animate({opacity:0},600);
+        $(this).find("img:nth-child(2)").stop().animate({opacity:1},600);
+    }, mouseout:function(){
+        $(this).find("img:nth-child(1)").stop().animate({opacity:1},600);
+        $(this).find("img:nth-child(2)").stop().animate({opacity:0},600);
+    } 
+});

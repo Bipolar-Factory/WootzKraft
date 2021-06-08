@@ -607,7 +607,7 @@
 .wprt-lines.custom-1 { height: 2px; }
 .wprt-lines.custom-1 .line-1 { height:2px; width: 140px; background-color: #ffc925; margin-left: -45px; margin-top: -1.5px }
 
-.wprt-lines.custom-2 { height: 3px; }
+.wprt-lines.custom-2 { height: 3px; margin-bottom: 3%; }
 .wprt-lines.custom-2 .line-1 { height:3px; width: 70px; background-color: #ffc925; margin-left: -35px;margin-top: -1.5px }
 
 .wprt-lines.custom-3 { height: 2px; }

@@ -1599,3 +1599,14 @@ only screen and (                min-resolution: 2dppx){
 .fit-vids-style{
     display: none;
 }
+.img-icon{
+    max-width: 100%;
+    width: 100px;
+    height: auto;
+}
+.tp-caption a img:nth-child(1) {
+    position: absolute;
+}
+.tp-caption a img:nth-child(2) {
+    opacity: 0;
+}

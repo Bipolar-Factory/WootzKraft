@@ -2367,10 +2367,3 @@
         display: none !important;
     }
 }
-
-.tp-caption a img:nth-child(1) {
-    position: absolute;
-}
-.tp-caption a img:nth-child(2) {
-    opacity: 0;
-}

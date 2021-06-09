@@ -623,7 +623,7 @@
 
 /* Button
 -------------------------------------------------------------- */
-/*.wprt-button {
+.wprt-button {
     font-family: "Montserrat", sans-serif;
     font-weight: 100;
     display: inline-block;
@@ -632,144 +632,144 @@
     color: #fff;
     -webkit-transition: all ease .238s;
        -moz-transition: all ease .238s;
-            transition: all ease .238s;*/
+            transition: all ease .238s;
 }
 
 /* Button Rounded */
-/*.wprt-button.rounded-1px {
+.wprt-button.rounded-1px {
     -webkit-border-radius: 1px;
        -moz-border-radius: 1px;
             border-radius: 1px;    
-}*/
+}
 
-/*.wprt-button.rounded-3px {
+.wprt-button.rounded-3px {
     -webkit-border-radius: 1px;
        -moz-border-radius: 1px;
             border-radius: 1px;    
-}*/
+}
 
-/*.wprt-button.rounded-30px {
+.wprt-button.rounded-30px {
     -webkit-border-radius: 30px;
        -moz-border-radius: 30px;
             border-radius: 30px;    
-}*/
+}
 
-/*.wprt-button:hover {
+.wprt-button:hover {
     transition: transform2s; 
 	transform: scale(1.3);
 	color: #FFD700;
-}*/
+}
 
 /* Button Dark */
-/*.wprt-button.dark {
+.wprt-button.dark {
     background-color: 	#FFD700;
     border-color:	#FFD700;
     color: #fff;
-}*/
+}
 
-/*.wprt-button.dark:hover {
+.wprt-button.dark:hover {
     background-color: #ffc925;
     border-color: #ffc925;
     color: #fff;
-}*/
+}
 
 /* Button Light */
-/*.wprt-button.light {
+.wprt-button.light {
     background-color: #888;
     border-color: #888;
     color: #fff;
-}*/
+}
 
-/*.wprt-button.light:hover {
+.wprt-button.light:hover {
     background-color: #ffc925;
     border-color: #ffc925;
     color: #fff;
-}*/
+}
 
 /* Button Very Light */
-/*.wprt-button.very-light {
+.wprt-button.very-light {
     background-color: #c7c7c7;
     border-color: #c7c7c7;
     color: #fff;
-}*/
+}
 
-/*.wprt-button.very-light:hover {
+.wprt-button.very-light:hover {
     background-color: #ffc925;
     border-color: #ffc925;
     color: #fff;
-}*/
+}
 
 /* Button White */
-/*.wprt-button.white {
+.wprt-button.white {
     background-color: #fff;
     border-color: #fff;
     color: #252525;
-}*/
+}
 
-/*.wprt-button.white:hover {
+.wprt-button.white:hover {
     background-color: #252525;
     border-color: #252525;
     color: #fff;
-}*/
+}
 
 /* Button Outline */
-/*.wprt-button.outline {
+.wprt-button.outline {
     background-color: transparent;
     border-color: #ffc925;
     color: #ffc925;
-}*/
+}
 
-/*.wprt-button.outline:hover {
+.wprt-button.outline:hover {
     background-color: #ffc925;
     color: #fff;
-}*/
+}
 
 /* Button Outline Dark */
-/*.wprt-button.outline.dark {
+.wprt-button.outline.dark {
     border-color: #252525;
     color: #252525;
-}*/
+}
 
-/*.wprt-button.outline.dark:hover {
+.wprt-button.outline.dark:hover {
     background-color: #ffc925;
     border-color: #ffc925;
     color: #fff;
-}*/
+}
 
 /* Button Outline Light */
-/*.wprt-button.outline.light {
+.wprt-button.outline.light {
     border-color: #888;
     color: #888;
-}*/
+}
 
-/*.wprt-button.outline.light:hover {
+.wprt-button.outline.light:hover {
     background-color: #ffc925;
     border-color: #ffc925;
     color: #fff;
-}*/
+}
 
 /* Button Outline Very Light */
-/*.wprt-button.outline.very-light {
+.wprt-button.outline.very-light {
     border-color: #c7c7c7;
     color: #bbb;
-}*/
+}
 
-/*.wprt-button.outline.very-light:hover {
+.wprt-button.outline.very-light:hover {
     background-color: #ffc925;
     border-color: #ffc925;
     color: #fff;
-}*/
+}
 
 /* Button Small */
-/*.wprt-button.small {
+.wprt-button.small {
     padding: 0.47em 1.6em;
     font-size: 0.928em;
-}*/
+}
 
 /* Button Big */
-/*.wprt-button.big {
-    padding: 1.98em 0.8em;
-}*/
+.wprt-button.big {
+    padding: 1.98em 2.8em;
+}
 
 @media only screen and (max-width: 1291px) {
     .wprt-button,

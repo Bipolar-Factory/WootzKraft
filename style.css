@@ -1599,3 +1599,10 @@ only screen and (                min-resolution: 2dppx){
 .fit-vids-style{
     display: none;
 }
+.tp-caption a img{
+    width: 95px !important;
+    height: 95px !important;
+}
+.wprt-button.big {
+    padding: 1.98em 1em;
+}

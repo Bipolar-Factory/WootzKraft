@@ -768,7 +768,7 @@
 
 /* Button Big */
 .wprt-button.big {
-    padding: 1.98em 2.8em;
+    padding: 1.98em 1em;
 }
 
 @media only screen and (max-width: 1291px) {
